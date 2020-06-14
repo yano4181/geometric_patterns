@@ -1,0 +1,9 @@
+
+old*
+generate*
+params_base/
+docs/
+*.json.*
+.vscode/
+.venv/
+__pycache__/

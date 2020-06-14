@@ -1,0 +1,55 @@
+{
+    "each": [
+        {
+            "triangle_base_count": 9,
+            "triangle_base": 65,
+            "triangle_height": 65,
+            "color_list": [
+                {
+                    "r": 212,
+                    "g": 226,
+                    "b": 113
+                },
+                {
+                    "r": 131,
+                    "g": 149,
+                    "b": 66
+                }
+            ]
+        },
+        {
+            "triangle_base_count": 13,
+            "triangle_base": 45,
+            "triangle_height": 70,
+            "color_list": [
+                {
+                    "r": 0,
+                    "g": 68,
+                    "b": 116
+                },
+                {
+                    "r": 250,
+                    "g": 253,
+                    "b": 255
+                }
+            ]
+        },
+        {
+            "triangle_base_count": 9,
+            "triangle_base": 60,
+            "triangle_height": 30,
+            "color_list": [
+                {
+                    "r": 102,
+                    "g": 100,
+                    "b": 100
+                },
+                {
+                    "r": 190,
+                    "g": 197,
+                    "b": 201
+                }
+            ]
+        }
+    ]
+}
