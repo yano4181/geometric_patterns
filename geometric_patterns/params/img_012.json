@@ -1,0 +1,118 @@
+{
+    "each": [
+        {
+            "width": 600,
+            "height": 600,
+            "background_color": {
+                "r": 229,
+                "g": 79,
+                "b": 88
+            },
+            "stripe_list": [
+                {
+                    "width": 30,
+                    "left_margin": 18,
+                    "color": {
+                        "r": 214,
+                        "g": 113,
+                        "b": 47
+                    }
+                },
+                {
+                    "width": 8,
+                    "left_margin": 20,
+                    "color": {
+                        "r": 111,
+                        "g": 148,
+                        "b": 205
+                    }
+                },
+                {
+                    "width": 20,
+                    "left_margin": 10,
+                    "color": {
+                        "r": 102,
+                        "g": 100,
+                        "b": 100
+                    }
+                }
+            ]
+        },
+        {
+            "width": 600,
+            "height": 600,
+            "background_color": {
+                "r": 162,
+                "g": 100,
+                "b": 166
+            },
+            "stripe_list": [
+                {
+                    "width": 20,
+                    "left_margin": 10,
+                    "color": {
+                        "r": 145,
+                        "g": 108,
+                        "b": 170
+                    }
+                },
+                {
+                    "width": 20,
+                    "left_margin": 10,
+                    "color": {
+                        "r": 201,
+                        "g": 202,
+                        "b": 202
+                    }
+                },
+                {
+                    "width": 20,
+                    "left_margin": 10,
+                    "color": {
+                        "r": 239,
+                        "g": 157,
+                        "b": 112
+                    }
+                }
+            ]
+        },
+        {
+            "width": 600,
+            "height": 600,
+            "background_color": {
+                "r": 60,
+                "g": 35,
+                "b": 124
+            },
+            "stripe_list": [
+                {
+                    "width": 20,
+                    "left_margin": 10,
+                    "color": {
+                        "r": 218,
+                        "g": 142,
+                        "b": 104
+                    }
+                },
+                {
+                    "width": 20,
+                    "left_margin": 10,
+                    "color": {
+                        "r": 223,
+                        "g": 3,
+                        "b": 46
+                    }
+                },
+                {
+                    "width": 20,
+                    "left_margin": 10,
+                    "color": {
+                        "r": 115,
+                        "g": 66,
+                        "b": 150
+                    }
+                }
+            ]
+        }
+    ]
+}

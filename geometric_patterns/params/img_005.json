@@ -1,0 +1,58 @@
+{
+    "each": [
+        {
+            "line_width": 5,
+            "step_length": 36,
+            "step_width": 15,
+            "direction": true,
+            "color_list": [
+                {
+                    "r": 193,
+                    "g": 123,
+                    "b": 177
+                },
+                {
+                    "r": 102,
+                    "g": 60,
+                    "b": 110
+                }
+            ]
+        },
+        {
+            "line_width": 8,
+            "step_length": 15,
+            "step_width": 36,
+            "direction": false,
+            "color_list": [
+                {
+                    "r": 199,
+                    "g": 42,
+                    "b": 50
+                },
+                {
+                    "r": 206,
+                    "g": 173,
+                    "b": 155
+                }
+            ]
+        },
+        {
+            "line_width": 20,
+            "step_length": 1,
+            "step_width": 540,
+            "direction": true,
+            "color_list": [
+                {
+                    "r": 131,
+                    "g": 149,
+                    "b": 66
+                },
+                {
+                    "r": 191,
+                    "g": 210,
+                    "b": 0
+                }
+            ]
+        }
+    ]
+}

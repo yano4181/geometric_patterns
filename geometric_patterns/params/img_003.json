@@ -1,0 +1,16 @@
+{
+    "each": [
+        {
+            "side_length": 600,
+            "division_number": 600
+        },
+        {
+            "side_length": 600,
+            "division_number": 20
+        },
+        {
+            "side_length": 600,
+            "division_number": 4
+        }
+    ]
+}

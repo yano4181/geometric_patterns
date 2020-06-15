@@ -1,0 +1,67 @@
+{
+    "each": [
+        {
+            "radius": 40,
+            "margin": 15,
+            "vertical_cnt": 6,
+            "horizontal_cnt": 6,
+            "angle": 180,
+            "color_list": [
+                {
+                    "r": 212,
+                    "g": 184,
+                    "b": 130
+                },
+                {
+                    "r": 18,
+                    "g": 27,
+                    "b": 60
+                }
+            ],
+            "x_shift_percent": 25,
+            "y_shift_percent": 30
+        },
+        {
+            "radius": 40,
+            "margin": 15,
+            "vertical_cnt": 6,
+            "horizontal_cnt": 6,
+            "angle": 60,
+            "color_list": [
+                {
+                    "r": 101,
+                    "g": 95,
+                    "b": 95
+                },
+                {
+                    "r": 244,
+                    "g": 212,
+                    "b": 32
+                }
+            ],
+            "x_shift_percent": 25,
+            "y_shift_percent": 30
+        },
+        {
+            "radius": 40,
+            "margin": 15,
+            "vertical_cnt": 6,
+            "horizontal_cnt": 6,
+            "angle": 270,
+            "color_list": [
+                {
+                    "r": 255,
+                    "g": 212,
+                    "b": 232
+                },
+                {
+                    "r": 115,
+                    "g": 66,
+                    "b": 150
+                }
+            ],
+            "x_shift_percent": 25,
+            "y_shift_percent": 30
+        }
+    ]
+}

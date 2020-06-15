@@ -1,0 +1,64 @@
+{
+    "each": [
+        {
+            "thin_line_ratio": 0.4,
+            "line_width": 5,
+            "unit_cnt_x": 9,
+            "unit_cnt_y": 9,
+            "scale_cnt_per_unit": 2,
+            "unit_length": 60,
+            "color_list": [
+                {
+                    "r": 45,
+                    "g": 116,
+                    "b": 187
+                },
+                {
+                    "r": 251,
+                    "g": 201,
+                    "b": 109
+                }
+            ]
+        },
+        {
+            "thin_line_ratio": 0.4,
+            "line_width": 5,
+            "unit_cnt_x": 7,
+            "unit_cnt_y": 7,
+            "scale_cnt_per_unit": 5,
+            "unit_length": 65,
+            "color_list": [
+                {
+                    "r": 195,
+                    "g": 127,
+                    "b": 69
+                },
+                {
+                    "r": 200,
+                    "g": 226,
+                    "b": 47
+                }
+            ]
+        },
+        {
+            "thin_line_ratio": 0.4,
+            "line_width": 5,
+            "unit_cnt_x": 5,
+            "unit_cnt_y": 5,
+            "scale_cnt_per_unit": 12,
+            "unit_length": 90,
+            "color_list": [
+                {
+                    "r": 150,
+                    "g": 182,
+                    "b": 55
+                },
+                {
+                    "r": 196,
+                    "g": 106,
+                    "b": 48
+                }
+            ]
+        }
+    ]
+}

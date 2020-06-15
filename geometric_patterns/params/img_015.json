@@ -1,0 +1,103 @@
+{
+    "each": [
+        {
+            "width": 600,
+            "height": 600,
+            "hole_radius": 80,
+            "circle_radius": 160,
+            "tooth_num": 8,
+            "tooth_top_width": 80,
+            "tooth_bottom_width": 110,
+            "tooth_height": 80,
+            "gear_total_cnt": 2,
+            "color_list": [
+                {
+                    "r": 197,
+                    "g": 202,
+                    "b": 158
+                },
+                {
+                    "r": 124,
+                    "g": 156,
+                    "b": 129
+                },
+                {
+                    "r": 193,
+                    "g": 105,
+                    "b": 113
+                },
+                {
+                    "r": 130,
+                    "g": 98,
+                    "b": 96
+                }
+            ]
+        },
+        {
+            "width": 600,
+            "height": 600,
+            "hole_radius": 50,
+            "circle_radius": 100,
+            "tooth_num": 12,
+            "tooth_top_width": 10,
+            "tooth_bottom_width": 40,
+            "tooth_height": 50,
+            "gear_total_cnt": 5,
+            "color_list": [
+                {
+                    "r": 39,
+                    "g": 0,
+                    "b": 0
+                },
+                {
+                    "r": 239,
+                    "g": 124,
+                    "b": 33
+                },
+                {
+                    "r": 144,
+                    "g": 115,
+                    "b": 178
+                },
+                {
+                    "r": 100,
+                    "g": 55,
+                    "b": 145
+                }
+            ]
+        },
+        {
+            "width": 600,
+            "height": 600,
+            "hole_radius": 8,
+            "circle_radius": 15,
+            "tooth_num": 7,
+            "tooth_top_width": 5,
+            "tooth_bottom_width": 10,
+            "tooth_height": 9,
+            "gear_total_cnt": 10,
+            "color_list": [
+                {
+                    "r": 255,
+                    "g": 236,
+                    "b": 142
+                },
+                {
+                    "r": 65,
+                    "g": 127,
+                    "b": 100
+                },
+                {
+                    "r": 124,
+                    "g": 156,
+                    "b": 129
+                },
+                {
+                    "r": 160,
+                    "g": 105,
+                    "b": 96
+                }
+            ]
+        }
+    ]
+}

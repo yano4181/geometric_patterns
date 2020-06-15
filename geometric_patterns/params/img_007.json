@@ -1,0 +1,73 @@
+{
+    "each": [
+        {
+            "tile_side_length": 50,
+            "tile_margin": 10,
+            "tile_count": 10,
+            "tile_radius": 10,
+            "color_list": [
+                {
+                    "r": 230,
+                    "g": 25,
+                    "b": 107
+                },
+                {
+                    "r": 234,
+                    "g": 203,
+                    "b": 218
+                }
+            ],
+            "background_color": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            }
+        },
+        {
+            "tile_side_length": 30,
+            "tile_margin": 10,
+            "tile_count": 15,
+            "tile_radius": 10,
+            "color_list": [
+                {
+                    "r": 243,
+                    "g": 226,
+                    "b": 218
+                },
+                {
+                    "r": 241,
+                    "g": 151,
+                    "b": 140
+                }
+            ],
+            "background_color": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            }
+        },
+        {
+            "tile_side_length": 140,
+            "tile_margin": 10,
+            "tile_count": 4,
+            "tile_radius": 10,
+            "color_list": [
+                {
+                    "r": 237,
+                    "g": 116,
+                    "b": 76
+                },
+                {
+                    "r": 249,
+                    "g": 201,
+                    "b": 170
+                }
+            ],
+            "background_color": {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            }
+        }
+    ]
+}

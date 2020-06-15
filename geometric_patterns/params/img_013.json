@@ -1,0 +1,109 @@
+{
+    "each": [
+        {
+            "edge_cnt": 4,
+            "rotation_angle": 90,
+            "horizontal_unit_cnt": 4,
+            "vartical_unit_cnt": 4,
+            "unit_length": 150,
+            "line_width": 10,
+            "color_list": [
+                {
+                    "r": 206,
+                    "g": 173,
+                    "b": 155
+                },
+                {
+                    "r": 83,
+                    "g": 35,
+                    "b": 26
+                },
+                {
+                    "r": 199,
+                    "g": 42,
+                    "b": 50
+                },
+                {
+                    "r": 226,
+                    "g": 108,
+                    "b": 85
+                },
+                {
+                    "r": 123,
+                    "g": 43,
+                    "b": 29
+                }
+            ]
+        },
+        {
+            "edge_cnt": 5,
+            "rotation_angle": 90,
+            "horizontal_unit_cnt": 4,
+            "vartical_unit_cnt": 4,
+            "unit_length": 150,
+            "line_width": 10,
+            "color_list": [
+                {
+                    "r": 151,
+                    "g": 198,
+                    "b": 25
+                },
+                {
+                    "r": 212,
+                    "g": 226,
+                    "b": 113
+                },
+                {
+                    "r": 125,
+                    "g": 127,
+                    "b": 55
+                },
+                {
+                    "r": 56,
+                    "g": 56,
+                    "b": 58
+                },
+                {
+                    "r": 150,
+                    "g": 182,
+                    "b": 55
+                }
+            ]
+        },
+        {
+            "edge_cnt": 12,
+            "rotation_angle": 90,
+            "horizontal_unit_cnt": 4,
+            "vartical_unit_cnt": 4,
+            "unit_length": 150,
+            "line_width": 10,
+            "color_list": [
+                {
+                    "r": 0,
+                    "g": 155,
+                    "b": 133
+                },
+                {
+                    "r": 139,
+                    "g": 122,
+                    "b": 183
+                },
+                {
+                    "r": 183,
+                    "g": 159,
+                    "b": 200
+                },
+                {
+                    "r": 23,
+                    "g": 42,
+                    "b": 136
+                },
+                {
+                    "r": 60,
+                    "g": 35,
+                    "b": 124
+                }
+            ]
+        }
+    ]
+}
